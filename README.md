@@ -1,1 +1,2 @@
 # digital-logic-design
+THIS CODE IS WORKING FINE BUT I NEED TO SCROLL TEXT
